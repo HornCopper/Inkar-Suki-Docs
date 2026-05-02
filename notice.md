@@ -105,3 +105,7 @@
 ## 用户协议
 
 音卡协议已更新，[点此查看](https://inkar-suki.codethink.cn/Inkar-Suki-Docs/#/license)。
+
+## 计算器使用指南
+
+目前，音卡已上线`剑网3`的`DPS 计算器`功能，不过该功能较为复杂，建议搭配文档使用，[点击查看计算器文档](https://inkar-suki.codethink.cn/Inkar-Suki-Docs/#/calculator)。
