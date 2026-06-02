@@ -112,4 +112,4 @@
 
 ## JCL 分析器使用指南
 
-[点击查看 JCL 分析器使用文档]。
+[点击查看 JCL 分析器使用文档](https://inkar-suki.codethink.cn/Inkar-Suki-Docs/#/jcl)。
