@@ -109,3 +109,7 @@
 ## 计算器使用指南
 
 目前，音卡已上线`剑网3`的`DPS 计算器`功能，不过该功能较为复杂，建议搭配文档使用，[点击查看计算器文档](https://inkar-suki.codethink.cn/Inkar-Suki-Docs/#/calculator)。
+
+## JCL 分析器使用指南
+
+[点击查看 JCL 分析器使用文档]。
